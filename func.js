@@ -1,1 +1,1 @@
-function double num
+function double (num)
